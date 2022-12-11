@@ -3,7 +3,7 @@
 ## Website link: https://monicaclarelewis.github.io/challenge-1/
 
 ## Description
-The aim of this project was to modify the starter code to make Horiseon's website more accessible. This ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. 
+The aim of this project was to modify the HTML and CSS starter code to make Horiseon's website more accessible. This ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. 
 
 By completing this project I learnt about semantic HTML, updating the CSS with comments to make the code more easily readble by web developers and ordering HTML and CSS code into sequential order. I also learnt that renaming images correctly, changing title elements and semantic HTML elements are all crucial for the website readbility.
 
