@@ -12,6 +12,9 @@ By completing this project I learnt about semantic HTML, updating the CSS with c
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
 
+## Usage
+
+Visit the link above for access to the website.
 
 ## Installation
 
