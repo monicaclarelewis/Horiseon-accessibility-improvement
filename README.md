@@ -1,6 +1,6 @@
 # Challenge 1
 
-## Website link: https://monicaclarelewis.github.io/challenge-1/
+## Website link: https://monicaclarelewis.github.io/Horiseon-mock-accessibility-challenge/
 
 ## Description
 The aim of this project was to modify the HTML and CSS starter code to make Horiseon's website more accessible. This ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. 
